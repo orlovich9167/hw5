@@ -1,0 +1,964 @@
+[
+  {
+    "scenario": "dense_search",
+    "query": "What is oxygen and how is it used?",
+    "results": [
+      {
+        "rank": 1,
+        "score": 1.1472,
+        "title": "Hydrogen",
+        "text": "H2 is a product of some types of anaerobic metabolism and is produced by several microorganisms, usually via reactions catalyzed by iron- or nickel-containing enzymes called hydrogenases. These enzyme",
+        "text_length": null
+      },
+      {
+        "rank": 2,
+        "score": 1.1687,
+        "title": "Hydrogen",
+        "text": "The electrolysis of water is a simple method of producing hydrogen. A low voltage current is run through the water, and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode. T",
+        "text_length": null
+      },
+      {
+        "rank": 3,
+        "score": 1.2146,
+        "title": "Hydrogen",
+        "text": "Large quantities of H\n2 are needed in the petroleum and chemical industries. The largest application of H\n2 is for the processing (\"upgrading\") of fossil fuels, and in the production of ammonia. The k",
+        "text_length": null
+      },
+      {
+        "rank": 4,
+        "score": 1.2152,
+        "title": "Hydrogen",
+        "text": "In its turn, under anaerobic conditions, the ferrous hydroxide (Fe(OH)\n2 ) can be oxidized by the protons of water to form magnetite and molecular hydrogen. This process is described by the Schikorr r",
+        "text_length": null
+      },
+      {
+        "rank": 5,
+        "score": 1.2276,
+        "title": "Hydrogen",
+        "text": "Apart from its use as a reactant, H\n2 has wide applications in physics and engineering. It is used as a shielding gas in welding methods such as atomic hydrogen welding. H2 is used as the rotor coolan",
+        "text_length": null
+      },
+      {
+        "rank": 6,
+        "score": 1.2336,
+        "title": "Hydrogen",
+        "text": "Oxidation of hydrogen removes its electron and gives H+, which contains no electrons and a nucleus which is usually composed of one proton. That is why H+ is often called a proton. This species is cen",
+        "text_length": null
+      },
+      {
+        "rank": 7,
+        "score": 1.2453,
+        "title": "Hydrogen",
+        "text": "Under anaerobic conditions, iron and steel alloys are slowly oxidized by the protons of water concomitantly reduced in molecular hydrogen (H\n2). The anaerobic corrosion of iron leads first to the form",
+        "text_length": null
+      },
+      {
+        "rank": 8,
+        "score": 1.2817,
+        "title": "Hydrogen",
+        "text": "In the absence of atmospheric oxygen (O\n2), in deep geological conditions prevailing far away from Earth atmosphere, hydrogen (H\n2) is produced during the process of serpentinization by the anaerobic ",
+        "text_length": null
+      },
+      {
+        "rank": 9,
+        "score": 1.2855,
+        "title": "Hydrogen",
+        "text": "Lavoisier produced hydrogen for his experiments on mass conservation by reacting a flux of steam with metallic iron through an incandescent iron tube heated in a fire. Anaerobic oxidation of iron by t",
+        "text_length": null
+      },
+      {
+        "rank": 10,
+        "score": 1.2991,
+        "title": "Hydrogen",
+        "text": "In more recent applications, hydrogen is used pure or mixed with nitrogen (sometimes called forming gas) as a tracer gas for minute leak detection. Applications can be found in the automotive, chemica",
+        "text_length": null
+      }
+    ]
+  },
+  {
+    "scenario": "sparse_search",
+    "query": "What is oxygen and how is it used?",
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.2599,
+        "title": "Hydrogen",
+        "text": "The electrolysis of water is a simple method of producing hydrogen. A low voltage current is run through the water, and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode. T",
+        "text_length": null
+      },
+      {
+        "rank": 2,
+        "score": 0.1931,
+        "title": "Comprehensive_school",
+        "text": "Education in Northern Ireland differs slightly from systems used elsewhere in the United Kingdom, but it is more similar to that used in England and Wales than it is to Scotland.",
+        "text_length": null
+      },
+      {
+        "rank": 3,
+        "score": 0.1897,
+        "title": "Heresy",
+        "text": "The term is usually used to refer to violations of important religious teachings, but is used also of views strongly opposed to any generally accepted ideas. It is used in particular in reference to C",
+        "text_length": null
+      },
+      {
+        "rank": 4,
+        "score": 0.1702,
+        "title": "Hydrogen",
+        "text": "Hydrogen gas forms explosive mixtures with air if it is 4\u201374% concentrated and with chlorine if it is 5\u201395% concentrated. The mixtures may be ignited by spark, heat or sunlight. The hydrogen autoignit",
+        "text_length": null
+      },
+      {
+        "rank": 5,
+        "score": 0.1565,
+        "title": "Hydrogen",
+        "text": "Apart from its use as a reactant, H\n2 has wide applications in physics and engineering. It is used as a shielding gas in welding methods such as atomic hydrogen welding. H2 is used as the rotor coolan",
+        "text_length": null
+      },
+      {
+        "rank": 6,
+        "score": 0.1456,
+        "title": "Hydrogen",
+        "text": "Water splitting, in which water is decomposed into its component protons, electrons, and oxygen, occurs in the light reactions in all photosynthetic organisms. Some such organisms, including the alga ",
+        "text_length": null
+      },
+      {
+        "rank": 7,
+        "score": 0.1431,
+        "title": "Dog",
+        "text": "Dog communication is about how dogs \"speak\" to each other, how they understand messages that humans send to them, and how humans can translate the ideas that dogs are trying to transmit.:xii These com",
+        "text_length": null
+      },
+      {
+        "rank": 8,
+        "score": 0.1427,
+        "title": "Beyonc\u00e9",
+        "text": "Beyonc\u00e9 has stated that she is personally inspired by US First Lady Michelle Obama, saying \"She proves you can do it all\" and she has described Oprah Winfrey as \"the definition of inspiration and a st",
+        "text_length": null
+      },
+      {
+        "rank": 9,
+        "score": 0.1425,
+        "title": "Alfred_North_Whitehead",
+        "text": "In fact, Whitehead describes any entity as in some sense nothing more and nothing less than the sum of its relations to other entities \u2013 its synthesis of and reaction to the world around it. A real th",
+        "text_length": null
+      },
+      {
+        "rank": 10,
+        "score": 0.1385,
+        "title": "Hydrogen",
+        "text": "While H2 is not very reactive under standard conditions, it does form compounds with most elements. Hydrogen can form compounds with elements that are more electronegative, such as halogens (e.g., F, ",
+        "text_length": null
+      }
+    ]
+  },
+  {
+    "scenario": "hybrid_search",
+    "query": "What is oxygen and how is it used?",
+    "weight_combos": [
+      {
+        "dense_weight": 0.7,
+        "sparse_weight": 0.3,
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.4897,
+            "title": "Hydrogen",
+            "text": "The electrolysis of water is a simple method of producing hydrogen. A low voltage current is run through the water, and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode. T",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 0.4694,
+            "title": "Hydrogen",
+            "text": "Apart from its use as a reactant, H\n2 has wide applications in physics and engineering. It is used as a shielding gas in welding methods such as atomic hydrogen welding. H2 is used as the rotor coolan",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 0.3195,
+            "title": "Hydrogen",
+            "text": "H2 is a product of some types of anaerobic metabolism and is produced by several microorganisms, usually via reactions catalyzed by iron- or nickel-containing enzymes called hydrogenases. These enzyme",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 0.3069,
+            "title": "Hydrogen",
+            "text": "Large quantities of H\n2 are needed in the petroleum and chemical industries. The largest application of H\n2 is for the processing (\"upgrading\") of fossil fuels, and in the production of ammonia. The k",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 0.3068,
+            "title": "Hydrogen",
+            "text": "In its turn, under anaerobic conditions, the ferrous hydroxide (Fe(OH)\n2 ) can be oxidized by the protons of water to form magnetite and molecular hydrogen. This process is described by the Schikorr r",
+            "text_length": null
+          },
+          {
+            "rank": 6,
+            "score": 0.3036,
+            "title": "Hydrogen",
+            "text": "Oxidation of hydrogen removes its electron and gives H+, which contains no electrons and a nucleus which is usually composed of one proton. That is why H+ is often called a proton. This species is cen",
+            "text_length": null
+          },
+          {
+            "rank": 7,
+            "score": 0.3015,
+            "title": "Hydrogen",
+            "text": "Under anaerobic conditions, iron and steel alloys are slowly oxidized by the protons of water concomitantly reduced in molecular hydrogen (H\n2). The anaerobic corrosion of iron leads first to the form",
+            "text_length": null
+          },
+          {
+            "rank": 8,
+            "score": 0.2953,
+            "title": "Hydrogen",
+            "text": "In the absence of atmospheric oxygen (O\n2), in deep geological conditions prevailing far away from Earth atmosphere, hydrogen (H\n2) is produced during the process of serpentinization by the anaerobic ",
+            "text_length": null
+          },
+          {
+            "rank": 9,
+            "score": 0.2946,
+            "title": "Hydrogen",
+            "text": "Lavoisier produced hydrogen for his experiments on mass conservation by reacting a flux of steam with metallic iron through an incandescent iron tube heated in a fire. Anaerobic oxidation of iron by t",
+            "text_length": null
+          },
+          {
+            "rank": 10,
+            "score": 0.2923,
+            "title": "Hydrogen",
+            "text": "In more recent applications, hydrogen is used pure or mixed with nitrogen (sometimes called forming gas) as a tracer gas for minute leak detection. Applications can be found in the automotive, chemica",
+            "text_length": null
+          }
+        ]
+      },
+      {
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.5158,
+            "title": "Hydrogen",
+            "text": "The electrolysis of water is a simple method of producing hydrogen. A low voltage current is run through the water, and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode. T",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 0.4923,
+            "title": "Hydrogen",
+            "text": "Apart from its use as a reactant, H\n2 has wide applications in physics and engineering. It is used as a shielding gas in welding methods such as atomic hydrogen welding. H2 is used as the rotor coolan",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 0.2804,
+            "title": "Comprehensive_school",
+            "text": "Education in Northern Ireland differs slightly from systems used elsewhere in the United Kingdom, but it is more similar to that used in England and Wales than it is to Scotland.",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 0.2798,
+            "title": "Heresy",
+            "text": "The term is usually used to refer to violations of important religious teachings, but is used also of views strongly opposed to any generally accepted ideas. It is used in particular in reference to C",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 0.2768,
+            "title": "Hydrogen",
+            "text": "Hydrogen gas forms explosive mixtures with air if it is 4\u201374% concentrated and with chlorine if it is 5\u201395% concentrated. The mixtures may be ignited by spark, heat or sunlight. The hydrogen autoignit",
+            "text_length": null
+          },
+          {
+            "rank": 6,
+            "score": 0.273,
+            "title": "Hydrogen",
+            "text": "Water splitting, in which water is decomposed into its component protons, electrons, and oxygen, occurs in the light reactions in all photosynthetic organisms. Some such organisms, including the alga ",
+            "text_length": null
+          },
+          {
+            "rank": 7,
+            "score": 0.2726,
+            "title": "Dog",
+            "text": "Dog communication is about how dogs \"speak\" to each other, how they understand messages that humans send to them, and how humans can translate the ideas that dogs are trying to transmit.:xii These com",
+            "text_length": null
+          },
+          {
+            "rank": 8,
+            "score": 0.2726,
+            "title": "Beyonc\u00e9",
+            "text": "Beyonc\u00e9 has stated that she is personally inspired by US First Lady Michelle Obama, saying \"She proves you can do it all\" and she has described Oprah Winfrey as \"the definition of inspiration and a st",
+            "text_length": null
+          },
+          {
+            "rank": 9,
+            "score": 0.2725,
+            "title": "Alfred_North_Whitehead",
+            "text": "In fact, Whitehead describes any entity as in some sense nothing more and nothing less than the sum of its relations to other entities \u2013 its synthesis of and reaction to the world around it. A real th",
+            "text_length": null
+          },
+          {
+            "rank": 10,
+            "score": 0.2719,
+            "title": "Hydrogen",
+            "text": "While H2 is not very reactive under standard conditions, it does form compounds with most elements. Hydrogen can form compounds with elements that are more electronegative, such as halogens (e.g., F, ",
+            "text_length": null
+          }
+        ]
+      },
+      {
+        "dense_weight": 0.3,
+        "sparse_weight": 0.7,
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.5418,
+            "title": "Hydrogen",
+            "text": "The electrolysis of water is a simple method of producing hydrogen. A low voltage current is run through the water, and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode. T",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 0.5151,
+            "title": "Hydrogen",
+            "text": "Apart from its use as a reactant, H\n2 has wide applications in physics and engineering. It is used as a shielding gas in welding methods such as atomic hydrogen welding. H2 is used as the rotor coolan",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 0.3925,
+            "title": "Comprehensive_school",
+            "text": "Education in Northern Ireland differs slightly from systems used elsewhere in the United Kingdom, but it is more similar to that used in England and Wales than it is to Scotland.",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 0.3918,
+            "title": "Heresy",
+            "text": "The term is usually used to refer to violations of important religious teachings, but is used also of views strongly opposed to any generally accepted ideas. It is used in particular in reference to C",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 0.3876,
+            "title": "Hydrogen",
+            "text": "Hydrogen gas forms explosive mixtures with air if it is 4\u201374% concentrated and with chlorine if it is 5\u201395% concentrated. The mixtures may be ignited by spark, heat or sunlight. The hydrogen autoignit",
+            "text_length": null
+          },
+          {
+            "rank": 6,
+            "score": 0.3822,
+            "title": "Hydrogen",
+            "text": "Water splitting, in which water is decomposed into its component protons, electrons, and oxygen, occurs in the light reactions in all photosynthetic organisms. Some such organisms, including the alga ",
+            "text_length": null
+          },
+          {
+            "rank": 7,
+            "score": 0.3817,
+            "title": "Dog",
+            "text": "Dog communication is about how dogs \"speak\" to each other, how they understand messages that humans send to them, and how humans can translate the ideas that dogs are trying to transmit.:xii These com",
+            "text_length": null
+          },
+          {
+            "rank": 8,
+            "score": 0.3816,
+            "title": "Beyonc\u00e9",
+            "text": "Beyonc\u00e9 has stated that she is personally inspired by US First Lady Michelle Obama, saying \"She proves you can do it all\" and she has described Oprah Winfrey as \"the definition of inspiration and a st",
+            "text_length": null
+          },
+          {
+            "rank": 9,
+            "score": 0.3815,
+            "title": "Alfred_North_Whitehead",
+            "text": "In fact, Whitehead describes any entity as in some sense nothing more and nothing less than the sum of its relations to other entities \u2013 its synthesis of and reaction to the world around it. A real th",
+            "text_length": null
+          },
+          {
+            "rank": 10,
+            "score": 0.3807,
+            "title": "Hydrogen",
+            "text": "While H2 is not very reactive under standard conditions, it does form compounds with most elements. Hydrogen can form compounds with elements that are more electronegative, such as halogens (e.g., F, ",
+            "text_length": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scenario": "metadata_filter",
+    "query": "What is oxygen and how is it used?",
+    "title_filter": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+    "title_filter_results": [
+      {
+        "rank": 1,
+        "score": 1.8801,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "Josef Kolma\u0161, a sinologist, Tibetologist, and Professor of Oriental Studies at the Academy of Sciences of the Czech Republic, writes that it was during the Qing dynasty \"that developments took place o",
+        "text_length": 457
+      },
+      {
+        "rank": 2,
+        "score": 1.9602,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "The Ming court appointed three Princes of Dharma (\u6cd5\u738b) and five Princes (\u738b), and granted many other titles, such as Grand State Tutors (\u5927\u570b\u5e2b) and State Tutors (\u570b\u5e2b), to the important schools of Tibetan B",
+        "text_length": 615
+      },
+      {
+        "rank": 3,
+        "score": 1.9872,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "Chen states that the fourth Dalai Lama Yonten Gyatso was granted the title \"Master of Vajradhara\" and an official seal by the Wanli Emperor in 1616. This was noted in the Biography of the Fourth Dalai",
+        "text_length": 435
+      },
+      {
+        "rank": 4,
+        "score": 1.9908,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "However, Lok-Ham Chan, a professor of history at the University of Washington, writes that Changchub Gyaltsen's aims were to recreate the old Tibetan Kingdom that existed during the Chinese Tang dynas",
+        "text_length": 1148
+      },
+      {
+        "rank": 5,
+        "score": 2.0074,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "Hans Bielenstein writes that as far back as the Han dynasty (202 BCE\u2013220 CE), the Han Chinese government \"maintained the fiction\" that the foreign officials administering the various \"Dependent States",
+        "text_length": 405
+      },
+      {
+        "rank": 6,
+        "score": 2.0144,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "Tibet was once a strong power contemporaneous with Tang China (618\u2013907). Until the Tibetan Empire's collapse in the 9th century, it was the Tang's major rival in dominating Inner Asia. The Yarlung rul",
+        "text_length": 341
+      },
+      {
+        "rank": 7,
+        "score": 2.027,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "While the Ming dynasty traded horses with Tibet, it upheld a policy of outlawing border markets in the north, which Laird sees as an effort to punish the Mongols for their raids and to \"drive them fro",
+        "text_length": 964
+      },
+      {
+        "rank": 8,
+        "score": 2.0305,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "Meanwhile, the Tumed Mongols began moving into the Kokonor region (modern Qinghai), raiding the Ming Chinese frontier and even as far as the suburbs of Beijing under Altan Khan (1507\u20131582). Klieger wr",
+        "text_length": 1137
+      },
+      {
+        "rank": 9,
+        "score": 2.0316,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "Wang and Nyima state that after the official title \"Education Minister\" was granted to Tai Situ Changchub Gyaltsen (1302\u20131364) by the Yuan court, this title appeared frequently with his name in variou",
+        "text_length": 729
+      },
+      {
+        "rank": 10,
+        "score": 2.0505,
+        "title": "Sino-Tibetan_relations_during_the_Ming_dynasty",
+        "text": "In 1358, the Sakya viceregal regime installed by the Mongols in Tibet was overthrown in a rebellion by the Phagmodru myriarch Tai Situ Changchub Gyaltsen (1302\u20131364). The Mongol Yuan court was forced ",
+        "text_length": 334
+      }
+    ],
+    "length_filter": 529,
+    "length_filter_results": [
+      {
+        "rank": 1,
+        "score": 1.1687,
+        "title": "Hydrogen",
+        "text": "The electrolysis of water is a simple method of producing hydrogen. A low voltage current is run through the water, and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode. T",
+        "text_length": 655
+      },
+      {
+        "rank": 2,
+        "score": 1.2146,
+        "title": "Hydrogen",
+        "text": "Large quantities of H\n2 are needed in the petroleum and chemical industries. The largest application of H\n2 is for the processing (\"upgrading\") of fossil fuels, and in the production of ammonia. The k",
+        "text_length": 676
+      },
+      {
+        "rank": 3,
+        "score": 1.2276,
+        "title": "Hydrogen",
+        "text": "Apart from its use as a reactant, H\n2 has wide applications in physics and engineering. It is used as a shielding gas in welding methods such as atomic hydrogen welding. H2 is used as the rotor coolan",
+        "text_length": 537
+      },
+      {
+        "rank": 4,
+        "score": 1.3187,
+        "title": "Hydrogen",
+        "text": "Under ordinary conditions on Earth, elemental hydrogen exists as the diatomic gas, H2. However, hydrogen gas is very rare in the Earth's atmosphere (1 ppm by volume) because of its light weight, which",
+        "text_length": 580
+      },
+      {
+        "rank": 5,
+        "score": 1.3702,
+        "title": "Hydrogen",
+        "text": "Water splitting, in which water is decomposed into its component protons, electrons, and oxygen, occurs in the light reactions in all photosynthetic organisms. Some such organisms, including the alga ",
+        "text_length": 625
+      },
+      {
+        "rank": 6,
+        "score": 1.3802,
+        "title": "Hydrogen",
+        "text": "The energy density per unit volume of both liquid hydrogen and compressed hydrogen gas at any practicable pressure is significantly less than that of traditional fuel sources, although the energy dens",
+        "text_length": 869
+      },
+      {
+        "rank": 7,
+        "score": 1.3849,
+        "title": "Hydrogen",
+        "text": "Hydrogen, as atomic H, is the most abundant chemical element in the universe, making up 75% of normal matter by mass and over 90% by number of atoms (most of the mass of the universe, however, is not ",
+        "text_length": 595
+      },
+      {
+        "rank": 8,
+        "score": 1.3903,
+        "title": "Hydrogen",
+        "text": "This reaction is favored at low pressures but is nonetheless conducted at high pressures (2.0  MPa, 20 atm or 600 inHg). This is because high-pressure H\n2 is the most marketable product and Pressure S",
+        "text_length": 611
+      },
+      {
+        "rank": 9,
+        "score": 1.3919,
+        "title": "Solar_energy",
+        "text": "Solar chemical processes use solar energy to drive chemical reactions. These processes offset energy that would otherwise come from a fossil fuel source and can also convert solar energy into storable",
+        "text_length": 1166
+      },
+      {
+        "rank": 10,
+        "score": 1.4009,
+        "title": "Paper",
+        "text": "There are three main chemical pulping processes: the sulfite process dates back to the 1840s and it was the dominant method extent before the second world war. The kraft process, invented in the 1870s",
+        "text_length": 744
+      }
+    ]
+  },
+  {
+    "scenario": "similarity_metrics",
+    "query": "How does photosynthesis work in plants?",
+    "metrics": [
+      {
+        "metric": "L2",
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.9504,
+            "title": "Solar_energy",
+            "text": "Solar radiation is absorbed by the Earth's land surface, oceans \u2013 which cover about 71% of the globe \u2013 and atmosphere. Warm air containing evaporated water from the oceans rises, causing atmospheric c",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 1.0987,
+            "title": "Solar_energy",
+            "text": "Solar chemical processes use solar energy to drive chemical reactions. These processes offset energy that would otherwise come from a fossil fuel source and can also convert solar energy into storable",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 1.1735,
+            "title": "Symbiosis",
+            "text": "Symbiosis played a major role in the co-evolution of flowering plants and the animals that pollinate them. Many plants that are pollinated by insects, bats, or birds have highly specialized flowers mo",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 1.1868,
+            "title": "Solar_energy",
+            "text": "Solar energy may be used in a water stabilisation pond to treat waste water without chemicals or electricity. A further environmental advantage is that algae grow in such ponds and consume carbon diox",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 1.2761,
+            "title": "Solar_energy",
+            "text": "Greenhouses convert solar light to heat, enabling year-round production and the growth (in enclosed environments) of specialty crops and other plants not naturally suited to the local climate. Primiti",
+            "text_length": null
+          },
+          {
+            "rank": 6,
+            "score": 1.2896,
+            "title": "Symbiosis",
+            "text": "A large percentage of herbivores have mutualistic gut flora that help them digest plant matter, which is more difficult to digest than animal prey. This gut flora is made up of cellulose-digesting pro",
+            "text_length": null
+          },
+          {
+            "rank": 7,
+            "score": 1.3017,
+            "title": "Solar_energy",
+            "text": "Solar power is the conversion of sunlight into electricity, either directly using photovoltaics (PV), or indirectly using concentrated solar power (CSP). CSP systems use lenses or mirrors and tracking",
+            "text_length": null
+          },
+          {
+            "rank": 8,
+            "score": 1.3431,
+            "title": "Solar_energy",
+            "text": "Agriculture and horticulture seek to optimize the capture of solar energy in order to optimize the productivity of plants. Techniques such as timed planting cycles, tailored row orientation, staggered",
+            "text_length": null
+          },
+          {
+            "rank": 9,
+            "score": 1.3682,
+            "title": "Solar_energy",
+            "text": "The total solar energy absorbed by Earth's atmosphere, oceans and land masses is approximately 3,850,000 exajoules (EJ) per year. In 2002, this was more energy in one hour than the world used in one y",
+            "text_length": null
+          },
+          {
+            "rank": 10,
+            "score": 1.3704,
+            "title": "Saint_Barth%C3%A9lemy",
+            "text": "As the terrain is generally arid, the hills have mostly poor soil and support only cacti and succulent plants. During the rainy season the area turns green with vegetation and grass. The eastern part ",
+            "text_length": null
+          }
+        ]
+      },
+      {
+        "metric": "COSINE",
+        "results": []
+      },
+      {
+        "metric": "IP",
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.5248,
+            "title": "Solar_energy",
+            "text": "Solar radiation is absorbed by the Earth's land surface, oceans \u2013 which cover about 71% of the globe \u2013 and atmosphere. Warm air containing evaporated water from the oceans rises, causing atmospheric c",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 0.4506,
+            "title": "Solar_energy",
+            "text": "Solar chemical processes use solar energy to drive chemical reactions. These processes offset energy that would otherwise come from a fossil fuel source and can also convert solar energy into storable",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 0.4066,
+            "title": "Solar_energy",
+            "text": "Solar energy may be used in a water stabilisation pond to treat waste water without chemicals or electricity. A further environmental advantage is that algae grow in such ponds and consume carbon diox",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 0.362,
+            "title": "Solar_energy",
+            "text": "Greenhouses convert solar light to heat, enabling year-round production and the growth (in enclosed environments) of specialty crops and other plants not naturally suited to the local climate. Primiti",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 0.3491,
+            "title": "Solar_energy",
+            "text": "Solar power is the conversion of sunlight into electricity, either directly using photovoltaics (PV), or indirectly using concentrated solar power (CSP). CSP systems use lenses or mirrors and tracking",
+            "text_length": null
+          },
+          {
+            "rank": 6,
+            "score": 0.3285,
+            "title": "Solar_energy",
+            "text": "Agriculture and horticulture seek to optimize the capture of solar energy in order to optimize the productivity of plants. Techniques such as timed planting cycles, tailored row orientation, staggered",
+            "text_length": null
+          },
+          {
+            "rank": 7,
+            "score": 0.3159,
+            "title": "Solar_energy",
+            "text": "The total solar energy absorbed by Earth's atmosphere, oceans and land masses is approximately 3,850,000 exajoules (EJ) per year. In 2002, this was more energy in one hour than the world used in one y",
+            "text_length": null
+          },
+          {
+            "rank": 8,
+            "score": 0.3125,
+            "title": "Solar_energy",
+            "text": "Deciduous trees and plants have been promoted as a means of controlling solar heating and cooling. When planted on the southern side of a building in the northern hemisphere or the northern side in th",
+            "text_length": null
+          },
+          {
+            "rank": 9,
+            "score": 0.3012,
+            "title": "Solar_energy",
+            "text": "Solar distillation can be used to make saline or brackish water potable. The first recorded instance of this was by 16th-century Arab alchemists. A large-scale solar distillation project was first con",
+            "text_length": null
+          },
+          {
+            "rank": 10,
+            "score": 0.2988,
+            "title": "Solar_energy",
+            "text": "Hydrogen production technologies been a significant area of solar chemical research since the 1970s. Aside from electrolysis driven by photovoltaic or photochemical cells, several thermochemical proce",
+            "text_length": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scenario": "top_k",
+    "query": "Who was the first president of the United States?",
+    "k_values": [
+      {
+        "k": 5,
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.8731,
+            "title": "New_York_City",
+            "text": "In 1785, the assembly of the Congress of the Confederation made New York the national capital shortly after the war. New York was the last capital of the U.S. under the Articles of Confederation and t",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 1.0147,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "The first six presidents of the United States did not make extensive use of the veto power: George Washington only vetoed two bills, James Monroe one, and John Adams, Thomas Jefferson and John Quincy ",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 1.1041,
+            "title": "Space_Race",
+            "text": "Three weeks later, on May 5, 1961, Alan Shepard became the first American in space, launched in a ballistic trajectory on Mercury-Redstone 3, in a spacecraft he named Freedom 7. Though he did not achi",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 1.179,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Several twentieth-century presidents have attempted to greatly expand the power of the presidency. Theodore Roosevelt, for instance, claimed that the president was permitted to do whatever was not exp",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 1.1976,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Throughout America's history dominance of one of the three branches has essentially been a see-saw struggle between Congress and the president. Both have had periods of great power and weakness such a",
+            "text_length": null
+          }
+        ]
+      },
+      {
+        "k": 10,
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.8731,
+            "title": "New_York_City",
+            "text": "In 1785, the assembly of the Congress of the Confederation made New York the national capital shortly after the war. New York was the last capital of the U.S. under the Articles of Confederation and t",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 1.0147,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "The first six presidents of the United States did not make extensive use of the veto power: George Washington only vetoed two bills, James Monroe one, and John Adams, Thomas Jefferson and John Quincy ",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 1.1041,
+            "title": "Space_Race",
+            "text": "Three weeks later, on May 5, 1961, Alan Shepard became the first American in space, launched in a ballistic trajectory on Mercury-Redstone 3, in a spacecraft he named Freedom 7. Though he did not achi",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 1.179,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Several twentieth-century presidents have attempted to greatly expand the power of the presidency. Theodore Roosevelt, for instance, claimed that the president was permitted to do whatever was not exp",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 1.1976,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Throughout America's history dominance of one of the three branches has essentially been a see-saw struggle between Congress and the president. Both have had periods of great power and weakness such a",
+            "text_length": null
+          },
+          {
+            "rank": 6,
+            "score": 1.2356,
+            "title": "Montana",
+            "text": "Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention was held in Helena in 1884 that produced",
+            "text_length": null
+          },
+          {
+            "rank": 7,
+            "score": 1.2385,
+            "title": "Republic_of_the_Congo",
+            "text": "The Republic of the Congo received full independence from France on August 15, 1960. Fulbert Youlou ruled as the country's first president until labour elements and rival political parties instigated ",
+            "text_length": null
+          },
+          {
+            "rank": 8,
+            "score": 1.3017,
+            "title": "New_York_City",
+            "text": "New York City traces its roots to its 1624 founding as a trading post by colonists of the Dutch Republic and was named New Amsterdam in 1626. The city and its surroundings came under English control i",
+            "text_length": null
+          },
+          {
+            "rank": 9,
+            "score": 1.3133,
+            "title": "Prime_minister",
+            "text": "By the late 20th century, the majority of the world's countries had a prime minister or equivalent minister, holding office under either a constitutional monarchy or a ceremonial president. The main e",
+            "text_length": null
+          },
+          {
+            "rank": 10,
+            "score": 1.328,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Johnson's impeachment was perceived to have done great damage to the presidency, which came to be almost subordinate to Congress. Some believed that the president would become a mere figurehead, with ",
+            "text_length": null
+          }
+        ]
+      },
+      {
+        "k": 20,
+        "results": [
+          {
+            "rank": 1,
+            "score": 0.8731,
+            "title": "New_York_City",
+            "text": "In 1785, the assembly of the Congress of the Confederation made New York the national capital shortly after the war. New York was the last capital of the U.S. under the Articles of Confederation and t",
+            "text_length": null
+          },
+          {
+            "rank": 2,
+            "score": 1.0147,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "The first six presidents of the United States did not make extensive use of the veto power: George Washington only vetoed two bills, James Monroe one, and John Adams, Thomas Jefferson and John Quincy ",
+            "text_length": null
+          },
+          {
+            "rank": 3,
+            "score": 1.1041,
+            "title": "Space_Race",
+            "text": "Three weeks later, on May 5, 1961, Alan Shepard became the first American in space, launched in a ballistic trajectory on Mercury-Redstone 3, in a spacecraft he named Freedom 7. Though he did not achi",
+            "text_length": null
+          },
+          {
+            "rank": 4,
+            "score": 1.179,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Several twentieth-century presidents have attempted to greatly expand the power of the presidency. Theodore Roosevelt, for instance, claimed that the president was permitted to do whatever was not exp",
+            "text_length": null
+          },
+          {
+            "rank": 5,
+            "score": 1.1976,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Throughout America's history dominance of one of the three branches has essentially been a see-saw struggle between Congress and the president. Both have had periods of great power and weakness such a",
+            "text_length": null
+          },
+          {
+            "rank": 6,
+            "score": 1.2356,
+            "title": "Montana",
+            "text": "Under Territorial Governor Thomas Meagher, Montanans held a constitutional convention in 1866 in a failed bid for statehood. A second constitutional convention was held in Helena in 1884 that produced",
+            "text_length": null
+          },
+          {
+            "rank": 7,
+            "score": 1.2385,
+            "title": "Republic_of_the_Congo",
+            "text": "The Republic of the Congo received full independence from France on August 15, 1960. Fulbert Youlou ruled as the country's first president until labour elements and rival political parties instigated ",
+            "text_length": null
+          },
+          {
+            "rank": 8,
+            "score": 1.3017,
+            "title": "New_York_City",
+            "text": "New York City traces its roots to its 1624 founding as a trading post by colonists of the Dutch Republic and was named New Amsterdam in 1626. The city and its surroundings came under English control i",
+            "text_length": null
+          },
+          {
+            "rank": 9,
+            "score": 1.3133,
+            "title": "Prime_minister",
+            "text": "By the late 20th century, the majority of the world's countries had a prime minister or equivalent minister, holding office under either a constitutional monarchy or a ceremonial president. The main e",
+            "text_length": null
+          },
+          {
+            "rank": 10,
+            "score": 1.328,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "Johnson's impeachment was perceived to have done great damage to the presidency, which came to be almost subordinate to Congress. Some believed that the president would become a mere figurehead, with ",
+            "text_length": null
+          },
+          {
+            "rank": 11,
+            "score": 1.3375,
+            "title": "Alexander_Graham_Bell",
+            "text": "Many other inventions marked Bell's later life, including groundbreaking work in optical telecommunications, hydrofoils and aeronautics. Although Bell was not one of the 33 founders of the National Ge",
+            "text_length": null
+          },
+          {
+            "rank": 12,
+            "score": 1.3488,
+            "title": "Space_Race",
+            "text": "Gagarin's flight changed this; now Kennedy sensed the humiliation and fear on the part of the American public over the Soviet lead. He sent a memo dated April 20, 1961, to Vice President Lyndon B. Joh",
+            "text_length": null
+          },
+          {
+            "rank": 13,
+            "score": 1.3628,
+            "title": "Space_Race",
+            "text": "American Virgil \"Gus\" Grissom repeated Shepard's suborbital flight in Liberty Bell 7 on July 21, 1961. Almost a year after the Soviet Union put a human into orbit, astronaut John Glenn became the firs",
+            "text_length": null
+          },
+          {
+            "rank": 14,
+            "score": 1.3629,
+            "title": "Space_Race",
+            "text": "As President, Johnson steadfastly pursued the Gemini and Apollo programs, promoting them as Kennedy's legacy to the American public. One week after Kennedy's death, he issued an executive order renami",
+            "text_length": null
+          },
+          {
+            "rank": 15,
+            "score": 1.3736,
+            "title": "Space_Race",
+            "text": "On September 20, 1963, in a speech before the United Nations General Assembly, President Kennedy proposed that the United States and the Soviet Union join forces in their efforts to reach the Moon. So",
+            "text_length": null
+          },
+          {
+            "rank": 16,
+            "score": 1.3867,
+            "title": "Alexander_Graham_Bell",
+            "text": "In 1936 the US Patent Office declared Bell first on its list of the country's greatest inventors, leading to the US Post Office issuing a commemorative stamp honoring Bell in 1940 as part of its 'Famo",
+            "text_length": null
+          },
+          {
+            "rank": 17,
+            "score": 1.3889,
+            "title": "Separation_of_powers_under_the_United_States_Constitution",
+            "text": "The president is the civilian Commander in Chief of the Army and Navy of the United States. He has the authority to command them to take appropriate military action in the event of a sudden crisis. Ho",
+            "text_length": null
+          },
+          {
+            "rank": 18,
+            "score": 1.3948,
+            "title": "Space_Race",
+            "text": "By 1959, American observers believed that the Soviet Union would be the first to get a human into space, because of the time needed to prepare for Mercury's first launch. On April 12, 1961, the USSR s",
+            "text_length": null
+          },
+          {
+            "rank": 19,
+            "score": 1.4104,
+            "title": "Alexander_Graham_Bell",
+            "text": "Alexander Graham Bell (March 3, 1847 \u2013 August 2, 1922) was a Scottish-born[N 3] scientist, inventor, engineer and innovator who is credited with patenting the first practical telephone.",
+            "text_length": null
+          },
+          {
+            "rank": 20,
+            "score": 1.411,
+            "title": "Russian_Soviet_Federative_Socialist_Republic",
+            "text": "The Government was known officially as the Council of People's Commissars (1917\u20131946), Council of Ministers (1946\u20131978) and Council of Ministers\u2013Government (1978\u20131991). The first government was headed",
+            "text_length": null
+          }
+        ]
+      }
+    ]
+  }
+]

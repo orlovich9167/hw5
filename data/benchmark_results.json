@@ -1,0 +1,44 @@
+[
+  {
+    "algorithm": "IVF_FLAT",
+    "build_time_s": 1.36,
+    "avg_latency_ms": 6.7,
+    "p99_latency_ms": 8.04,
+    "recall_at_10": 1.0,
+    "params": {
+      "nlist": 128
+    },
+    "search_params": {
+      "nprobe": 16
+    }
+  },
+  {
+    "algorithm": "HNSW",
+    "build_time_s": 0.95,
+    "avg_latency_ms": 6.07,
+    "p99_latency_ms": 13.23,
+    "recall_at_10": 1.0,
+    "params": {
+      "M": 16,
+      "efConstruction": 200
+    },
+    "search_params": {
+      "ef": 64
+    }
+  },
+  {
+    "algorithm": "IVF_PQ",
+    "build_time_s": 1.15,
+    "avg_latency_ms": 5.74,
+    "p99_latency_ms": 10.38,
+    "recall_at_10": 1.0,
+    "params": {
+      "nlist": 128,
+      "m": 16,
+      "nbits": 8
+    },
+    "search_params": {
+      "nprobe": 16
+    }
+  }
+]
